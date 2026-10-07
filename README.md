@@ -280,9 +280,9 @@ If you would like to contribute:
 
 ---
 
-## 📄 License
+## live
 
-This project is licensed under the **MIT License**.
+https://abdulghani613.github.io/CGPA-Calculator/
 
 ---
 
